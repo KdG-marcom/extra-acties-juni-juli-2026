@@ -1,0 +1,458 @@
+{
+  "updated": "2026-06-21T10:02:24.000Z",
+  "opleidingen": [
+    {
+      "naam": "Accountancy-Fiscaliteit",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "AI & Data Engineer",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Applied Computer Science",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Autotechnologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Basisonderwijs",
+      "type": "Master",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Basisverpleegkunde",
+      "type": "Graduaat",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Bedrijfsmanagement",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Beeldende Kunsten",
+      "type": "Master",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Biochemie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Biomedische Laboratoriumtechnologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Business & Languages",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Chemie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Cross Media Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Cybersecurity Specialist",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Educatief Graduaat Secundair Onderwijs",
+      "type": "Graduaat",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Event & Project Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Farmaceutische en Biologische Laboratoriumtechnologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Financiën en Verzekeringen",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Fotografie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Global Business",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Global Supply Chain Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Human Resources Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Infrastructure Engineer",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Internationaal Ondernemen",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "International Business Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "International Entrepreneurship",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Internet of Things",
+      "type": "Graduaat",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "KMO-Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Kunst- en Cultuurbemiddeling",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Kleuteronderwijs",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Kleuteronderwijs - Verkort",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Kleuteronderwijs - voor Kinderbegeleiders (LIO-traject)",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Lager Onderwijs",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Lager Onderwijs - Verkort",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Secundair Onderwijs",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Leraar Secundair Onderwijs (extra vak, flextraject)",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Maatschappelijk Werk",
+      "type": "Graduaat",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Maatschappelijke Advisering",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Marketing",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Medische Beeldvorming en Radiotherapie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Medische Laboratoriumtechnologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Multimedia & Creative Technologies",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Multimedia & Creative Technologies (in English)",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Multimedia en Creatieve Technologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Nursing",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Organisatie en Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Orthopedagogie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Orthopedagogie - Verkort",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Orthopedagogie: gespreid traject",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Pedagogie van het Jonge Kind",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Pedagogie van het Jonge Kind - Verkort en voor Werkstudenten",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Physical AI Specialist",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Premaster",
+      "type": "Master",
+      "campus": ""
+    },
+    {
+      "naam": "Premaster Beeldende Kunsten (schakelprogramma)",
+      "type": "Master",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Procestechnologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Product Owner",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Rechtspraktijk",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Rechtspraktijk - Verkort",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Sociaal Werk",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Sociaal Werk - Verkort",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Sociaal-Cultureel Werk",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Sociaal-Juridische Dienstverlening",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Software Engineer",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Supply Chain Management",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Toegepaste Informatica",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Toegepaste Informatica - voor Werkstudenten",
+      "type": "Professionele bachelor",
+      "campus": "Campus Groenplaats"
+    },
+    {
+      "naam": "Toegepaste Jeugdcriminologie",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Verkorte Educatieve Bachelor Secundair Onderwijs",
+      "type": "Educatieve bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Verpleegkunde",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Verpleegkunde - Brugprogramma",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Verpleegkunde - voor Projectstudenten",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Verpleegkunde - voor Werkstudenten",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "naam": "Visual Arts",
+      "type": "Master",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Voertuigtechnieken",
+      "type": "Graduaat",
+      "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Vroedkunde",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    }
+  ],
+  "acties": {
+    "Autotechnologie": {
+      "mailNaam": "Tom Carmans",
+      "mailEmail": "test.test@kdg.be",
+      "chatNaam": "Tom Chatter",
+      "chatUrl": "https://www.kdg.be/chat?unibuddy=inbox%2Fchatwith%2F65e1e7eacca10037bb72c117&ub_medium=product&ub_source=Embedded%20University%20Buddy%20Cards%20-%20Staff&ub_campaign=&ub_content=&invite_id=",
+      "onlineNaam": "Tom Online meeting",
+      "onlineEmail": "tom.afspraak@maken.be",
+      "onlineUrl": "https//www.google.be",
+      "fysiekNaam": "Tom Fysieke meeting",
+      "fysiekEmail": "tom.fysieke@meeting.be",
+      "fysiekUrl": "https://tool-voor-afspraak-fysiek.be",
+      "ioDatum": "2026-07-08T09:00:00.000Z",
+      "ioDuur": "2 uur",
+      "ioUrl": "https:www.kdg.be/inschrijvingslink",
+      "ifDatum": "2026-07-09T10:30:00.000Z",
+      "ifDuur": "2 uur",
+      "ifCampus": "Campus Hoboken",
+      "ifOnthaal": "Lokaal HO458"
+    },
+    "Voertuigtechnieken": {
+      "mailNaam": "Tom Carmans",
+      "mailEmail": "test.test@kdg.be",
+      "chatNaam": "Tom Chatter",
+      "chatUrl": "https://www.kdg.be/chat?unibuddy=inbox%2Fchatwith%2F65e1e7eacca10037bb72c117&ub_medium=product&ub_source=Embedded%20University%20Buddy%20Cards%20-%20Staff&ub_campaign=&ub_content=&invite_id=",
+      "onlineNaam": "Tom Online meeting",
+      "onlineEmail": "tom.afspraak@maken.be",
+      "onlineUrl": "https//www.google.be",
+      "fysiekNaam": "Tom Fysieke meeting",
+      "fysiekEmail": "tom.fysieke@meeting.be",
+      "fysiekUrl": "https://tool-voor-afspraak-fysiek.be",
+      "ioDatum": "2026-07-08T09:00:00.000Z",
+      "ioDuur": "2 uur",
+      "ioUrl": "https:www.kdg.be/inschrijvingslink",
+      "ifDatum": "2026-07-09T10:30:00.000Z",
+      "ifDuur": "2 uur",
+      "ifCampus": "Campus Hoboken",
+      "ifOnthaal": "Lokaal HO458"
+    },
+    "Chemie": {
+      "mailNaam": "Tom Carmans",
+      "mailEmail": "test.test@kdg.be",
+      "chatNaam": "Tom Chatter",
+      "chatUrl": "https://www.kdg.be/chat?unibuddy=inbox%2Fchatwith%2F65e1e7eacca10037bb72c117&ub_medium=product&ub_source=Embedded%20University%20Buddy%20Cards%20-%20Staff&ub_campaign=&ub_content=&invite_id=",
+      "onlineNaam": "Tom Online meeting",
+      "onlineEmail": "tom.afspraak@maken.be",
+      "onlineUrl": "https//www.google.be",
+      "fysiekNaam": "Tom Fysieke meeting",
+      "fysiekEmail": "tom.fysieke@meeting.be",
+      "fysiekUrl": "https://tool-voor-afspraak-fysiek.be",
+      "ioDatum": "2026-07-08T09:00:00.000Z",
+      "ioDuur": "2 uur",
+      "ioUrl": "https:www.kdg.be/inschrijvingslink",
+      "ifDatum": "2026-07-09T10:30:00.000Z",
+      "ifDuur": "2 uur",
+      "ifCampus": "Campus Hoboken",
+      "ifOnthaal": "Lokaal HO458"
+    },
+    "Accountancy-Fiscaliteit": {
+      "mailNaam": "Tom Carmans",
+      "mailEmail": "test.test@kdg.be",
+      "chatNaam": "Tom Chatter",
+      "chatUrl": "https://www.kdg.be/chat?unibuddy=inbox%2Fchatwith%2F65e1e7eacca10037bb72c117&ub_medium=product&ub_source=Embedded%20University%20Buddy%20Cards%20-%20Staff&ub_campaign=&ub_content=&invite_id=",
+      "onlineNaam": "Tom Online meeting",
+      "onlineEmail": "tom.afspraak@maken.be",
+      "onlineUrl": "https//www.google.be",
+      "fysiekNaam": "Tom Fysieke meeting",
+      "fysiekEmail": "tom.fysieke@meeting.be",
+      "fysiekUrl": "https://tool-voor-afspraak-fysiek.be",
+      "ioDatum": "2026-07-08T09:00:00.000Z",
+      "ioDuur": "2 uur",
+      "ioUrl": "https:www.kdg.be/inschrijvingslink",
+      "ifDatum": "2026-07-09T10:30:00.000Z",
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Onthaal gelijkvloers"
+    }
+  }
+}
