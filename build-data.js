@@ -57,7 +57,7 @@ const sel = v => (v && typeof v === 'object' && !Array.isArray(v)) ? v.name : v;
     if (!links.length) continue;
     const rec = {
       mailNaam:   f['MAIL_Naam'] || '',           mailEmail: f['MAIL_E-mail'] || '',
-      chatNaam:   f['CHAT_Naam'] || '',            chatUrl:   f['CHAT_Unibuddy url'] || '',
+      chatNaam:   f['CHAT_Naam'] || '',            chatFunctie: f['CHAT_Functie'] || '',   chatUrl: f['CHAT_Unibuddy url'] || '',
       onlineNaam: f['1-OP-1-ONLINE_Naam'] || '',   onlineEmail: f['1-OP-1-ONLINE_E-mail'] || '', onlineUrl: f['1-OP-1-ONLINE_Tool-url'] || '',
       fysiekNaam: f['1-OP-1-FYSIEK_Naam'] || '',   fysiekEmail: f['1-OP-1-FYSIEK_E-mail'] || '', fysiekUrl: f['1-OP-1-FYSIEK_Tool-url'] || '',
       ioDatum:    f['INFOSESSIE-ONLINE_Datum en startuur'] || '', ioDuur: f['INFOSESSIE-ONLINE_Duur'] || '', ioUrl: f['INFOSESSIE-ONLINE_Inschrijvingslink'] || '',
