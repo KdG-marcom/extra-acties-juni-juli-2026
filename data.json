@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:55:31.096Z",
+  "updated": "2026-06-23T20:06:35.237Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -601,6 +601,26 @@
     "Human Resources Management": {
       "mailNaam": "Anneleen Andries",
       "mailEmail": "anneleen.andries@kdg.be ",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
+    },
+    "International Business Management": {
+      "mailNaam": "Carolina Egúsquiza",
+      "mailEmail": "carolina.egusquizaberrocal@kdg.be",
       "chatNaam": "",
       "chatFunctie": "",
       "chatUrl": "",
