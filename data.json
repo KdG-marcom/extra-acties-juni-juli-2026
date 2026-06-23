@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:00:52.805Z",
+  "updated": "2026-06-23T05:31:55.446Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -437,6 +437,26 @@
       "ifDuur": "2 uur",
       "ifCampus": "Campus Hoboken",
       "ifOnthaal": "Lokaal HO458"
+    },
+    "Basisonderwijs": {
+      "mailNaam": "Tom Carmans",
+      "mailEmail": "tom.carmans@kdg.be",
+      "chatNaam": "Tom Carmans",
+      "chatFunctie": "Coole gast",
+      "chatUrl": "",
+      "onlineNaam": "Tom Carmans",
+      "onlineEmail": "tom.carmans@kdg.be",
+      "onlineUrl": "https://www.kdg.be/kdg-staat-klaar",
+      "fysiekNaam": "Tom Carmans",
+      "fysiekEmail": "tom.carmans@kdg.be",
+      "fysiekUrl": "",
+      "ioDatum": "2026-06-30T05:26:00.000Z",
+      "ioDuur": "3 uur",
+      "ioUrl": "",
+      "ifDatum": "2026-07-01T05:28:00.000Z",
+      "ifDuur": "2 uur",
+      "ifCampus": "Campus Sint Lucas",
+      "ifOnthaal": "aan de inkom"
     },
     "Accountancy-Fiscaliteit": {
       "mailNaam": "Tom Carmans",
