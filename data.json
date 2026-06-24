@@ -1,424 +1,489 @@
 {
-  "updated": "2026-06-24T13:21:53.362Z",
+  "updated": "2026-06-24T13:51:42.377Z",
   "opleidingen": [
     {
+      "key": "Accountancy-Fiscaliteit | Professionele bachelor",
       "naam": "Accountancy-Fiscaliteit",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "AI & Data Engineer | Professionele bachelor",
       "naam": "AI & Data Engineer",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Applied Computer Science | Professionele bachelor",
       "naam": "Applied Computer Science",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Autotechnologie | Professionele bachelor",
       "naam": "Autotechnologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
-      "naam": "Basisonderwijs",
-      "type": "Master",
-      "campus": "Campus Zuid"
-    },
-    {
+      "key": "Basisverpleegkunde | Graduaat",
       "naam": "Basisverpleegkunde",
       "type": "Graduaat",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Bedrijfsmanagement | Professionele bachelor",
       "naam": "Bedrijfsmanagement",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Beeldende Kunsten | Academische bachelor",
       "naam": "Beeldende Kunsten",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Biochemie | Professionele bachelor",
       "naam": "Biochemie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Biomedische Laboratoriumtechnologie | Professionele bachelor",
       "naam": "Biomedische Laboratoriumtechnologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Business & Languages | Professionele bachelor",
       "naam": "Business & Languages",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Chemie | Professionele bachelor",
       "naam": "Chemie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Cross Media Management | Professionele bachelor",
       "naam": "Cross Media Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Cybersecurity Specialist | Professionele bachelor",
       "naam": "Cybersecurity Specialist",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Educatief Graduaat Secundair Onderwijs | Graduaat",
       "naam": "Educatief Graduaat Secundair Onderwijs",
       "type": "Graduaat",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Event & Project Management | Professionele bachelor",
       "naam": "Event & Project Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Farmaceutische en Biologische Laboratoriumtechnologie | Professionele bachelor",
       "naam": "Farmaceutische en Biologische Laboratoriumtechnologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Financiën en Verzekeringen | Professionele bachelor",
       "naam": "Financiën en Verzekeringen",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Fotografie | Professionele bachelor",
       "naam": "Fotografie",
       "type": "Professionele bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Global Business | Professionele bachelor",
       "naam": "Global Business",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Global Supply Chain Management | Professionele bachelor",
       "naam": "Global Supply Chain Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Grafisch Ontwerp | Academische bachelor",
       "naam": "Grafisch Ontwerp",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Human Resources Management | Professionele bachelor",
       "naam": "Human Resources Management",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Infrastructure Engineer | Professionele bachelor",
       "naam": "Infrastructure Engineer",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Internationaal Ondernemen | Professionele bachelor",
       "naam": "Internationaal Ondernemen",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "International Business Management | Professionele bachelor",
       "naam": "International Business Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "International Entrepreneurship | Professionele bachelor",
       "naam": "International Entrepreneurship",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Internet of Things | Graduaat",
       "naam": "Internet of Things",
       "type": "Graduaat",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Juweelontwerp en Edelsmeedkunst | Academische bachelor",
       "naam": "Juweelontwerp en Edelsmeedkunst",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "KMO-Management | Professionele bachelor",
       "naam": "KMO-Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Kunst- en Cultuurbemiddeling | Professionele bachelor",
       "naam": "Kunst- en Cultuurbemiddeling",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Kleuteronderwijs | Educatieve bachelor",
       "naam": "Leraar Kleuteronderwijs",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Kleuteronderwijs - Verkort | Educatieve bachelor",
       "naam": "Leraar Kleuteronderwijs - Verkort",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Kleuteronderwijs - voor Kinderbegeleiders (LIO-traject) | Educatieve bachelor",
       "naam": "Leraar Kleuteronderwijs - voor Kinderbegeleiders (LIO-traject)",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Lager Onderwijs | Educatieve bachelor",
       "naam": "Leraar Lager Onderwijs",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Lager Onderwijs - Verkort | Educatieve bachelor",
       "naam": "Leraar Lager Onderwijs - Verkort",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Secundair Onderwijs | Educatieve bachelor",
       "naam": "Leraar Secundair Onderwijs",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Leraar Secundair Onderwijs (extra vak, flextraject) | Educatieve bachelor",
       "naam": "Leraar Secundair Onderwijs (extra vak, flextraject)",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Maatschappelijk Werk | Graduaat",
       "naam": "Maatschappelijk Werk",
       "type": "Graduaat",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Maatschappelijk Werk | Professionele bachelor",
+      "naam": "Maatschappelijk Werk",
+      "type": "Professionele bachelor",
+      "campus": "Campus Zuid"
+    },
+    {
+      "key": "Maatschappelijke Advisering | Professionele bachelor",
       "naam": "Maatschappelijke Advisering",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Marketing | Professionele bachelor",
       "naam": "Marketing",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Medische Beeldvorming en Radiotherapie | Professionele bachelor",
       "naam": "Medische Beeldvorming en Radiotherapie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Medische Laboratoriumtechnologie | Professionele bachelor",
       "naam": "Medische Laboratoriumtechnologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Multimedia & Creative Technologies | Professionele bachelor",
       "naam": "Multimedia & Creative Technologies",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Multimedia & Creative Technologies (in English) | Professionele bachelor",
       "naam": "Multimedia & Creative Technologies (in English)",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Multimedia en Creatieve Technologie | Professionele bachelor",
       "naam": "Multimedia en Creatieve Technologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Nursing | Professionele bachelor",
       "naam": "Nursing",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Organisatie en Management | Professionele bachelor",
       "naam": "Organisatie en Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Orthopedagogie | Professionele bachelor",
       "naam": "Orthopedagogie",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Orthopedagogie - Verkort | Professionele bachelor",
       "naam": "Orthopedagogie - Verkort",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Orthopedagogie: gespreid traject | Professionele bachelor",
       "naam": "Orthopedagogie: gespreid traject",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Pedagogie van het Jonge Kind | Professionele bachelor",
       "naam": "Pedagogie van het Jonge Kind",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Pedagogie van het Jonge Kind - Verkort en voor Werkstudenten | Professionele bachelor",
       "naam": "Pedagogie van het Jonge Kind - Verkort en voor Werkstudenten",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Physical AI Specialist | Professionele bachelor",
       "naam": "Physical AI Specialist",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
-      "naam": "Premaster",
-      "type": "Master",
-      "campus": ""
-    },
-    {
-      "naam": "Premaster Beeldende Kunsten (schakelprogramma)",
-      "type": "Master",
-      "campus": "Campus Sint Lucas"
-    },
-    {
+      "key": "Procestechnologie | Professionele bachelor",
       "naam": "Procestechnologie",
       "type": "Professionele bachelor",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Product Owner | Professionele bachelor",
       "naam": "Product Owner",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Rechtspraktijk | Professionele bachelor",
       "naam": "Rechtspraktijk",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Rechtspraktijk - Verkort | Professionele bachelor",
       "naam": "Rechtspraktijk - Verkort",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Sociaal Werk | Professionele bachelor",
       "naam": "Sociaal Werk",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Sociaal Werk - Verkort | Professionele bachelor",
       "naam": "Sociaal Werk - Verkort",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Sociaal-Cultureel Werk | Professionele bachelor",
       "naam": "Sociaal-Cultureel Werk",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Sociaal-Juridische Dienstverlening | Professionele bachelor",
       "naam": "Sociaal-Juridische Dienstverlening",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Software Engineer | Professionele bachelor",
       "naam": "Software Engineer",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Studio Communicatie-Ontwerp | Academische bachelor",
       "naam": "Studio Communicatie-Ontwerp",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Studio Grafische Vormgeving | Academische bachelor",
       "naam": "Studio Grafische Vormgeving",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Studio Illustratie | Academische bachelor",
       "naam": "Studio Illustratie",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Studio Sieraad | Academische bachelor",
       "naam": "Studio Sieraad",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Studio Vrije Kunst | Academische bachelor",
       "naam": "Studio Vrije Kunst",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Supply Chain Management | Professionele bachelor",
       "naam": "Supply Chain Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Toegepaste Informatica | Professionele bachelor",
       "naam": "Toegepaste Informatica",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Toegepaste Informatica - voor Werkstudenten | Professionele bachelor",
       "naam": "Toegepaste Informatica - voor Werkstudenten",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
     },
     {
+      "key": "Toegepaste Jeugdcriminologie | Professionele bachelor",
       "naam": "Toegepaste Jeugdcriminologie",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Verkorte Educatieve Bachelor Secundair Onderwijs | Educatieve bachelor",
       "naam": "Verkorte Educatieve Bachelor Secundair Onderwijs",
       "type": "Educatieve bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Verpleegkunde | Professionele bachelor",
       "naam": "Verpleegkunde",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Verpleegkunde - Brugprogramma | Professionele bachelor",
       "naam": "Verpleegkunde - Brugprogramma",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Verpleegkunde - voor Projectstudenten | Professionele bachelor",
       "naam": "Verpleegkunde - voor Projectstudenten",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
+      "key": "Verpleegkunde - voor Werkstudenten | Professionele bachelor",
       "naam": "Verpleegkunde - voor Werkstudenten",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     },
     {
-      "naam": "Visual Arts",
-      "type": "Master",
-      "campus": "Campus Sint Lucas"
-    },
-    {
+      "key": "Voertuigtechnieken | Graduaat",
       "naam": "Voertuigtechnieken",
       "type": "Graduaat",
       "campus": "Campus Hoboken"
     },
     {
+      "key": "Vrije Kunsten | Academische bachelor",
       "naam": "Vrije Kunsten",
       "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
+      "key": "Vroedkunde | Professionele bachelor",
       "naam": "Vroedkunde",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
     }
   ],
   "acties": {
-    "KMO-Management": {
+    "KMO-Management | Professionele bachelor": {
       "mailNaam": "Tom Herrijgers",
       "mailEmail": "tom.herrijgers@kdg.be",
       "chatNaam": "Tom Herrijgers",
@@ -438,7 +503,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Onthaal"
     },
-    "Autotechnologie": {
+    "Autotechnologie | Professionele bachelor": {
       "mailNaam": "Peter Colman",
       "mailEmail": "peter.colman@kdg.be",
       "chatNaam": "",
@@ -458,7 +523,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Voertuigtechnieken": {
+    "Voertuigtechnieken | Graduaat": {
       "mailNaam": "Peter Colman",
       "mailEmail": "peter.colman@kdg.be",
       "chatNaam": "",
@@ -478,7 +543,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Verpleegkunde": {
+    "Verpleegkunde | Professionele bachelor": {
       "mailNaam": "Ann Cleerbout",
       "mailEmail": "ann.cleerbout@kdg.be",
       "chatNaam": "",
@@ -498,7 +563,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "AI & Data Engineer": {
+    "AI & Data Engineer | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -518,7 +583,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Infrastructure Engineer": {
+    "Infrastructure Engineer | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -538,7 +603,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Software Engineer": {
+    "Software Engineer | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -558,7 +623,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Physical AI Specialist": {
+    "Physical AI Specialist | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -578,7 +643,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Cybersecurity Specialist": {
+    "Cybersecurity Specialist | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -598,7 +663,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Product Owner": {
+    "Product Owner | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -618,7 +683,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Toegepaste Informatica": {
+    "Toegepaste Informatica | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -638,7 +703,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Biomedische Laboratoriumtechnologie": {
+    "Biomedische Laboratoriumtechnologie | Professionele bachelor": {
       "mailNaam": "Steffi Matthyssen",
       "mailEmail": "steffi.matthyssen@kdg.be",
       "chatNaam": "",
@@ -658,7 +723,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Farmaceutische en Biologische Laboratoriumtechnologie": {
+    "Farmaceutische en Biologische Laboratoriumtechnologie | Professionele bachelor": {
       "mailNaam": "Steffi Matthyssen",
       "mailEmail": "steffi.matthyssen@kdg.be",
       "chatNaam": "",
@@ -678,7 +743,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Medische Laboratoriumtechnologie": {
+    "Medische Laboratoriumtechnologie | Professionele bachelor": {
       "mailNaam": "Steffi Matthyssen",
       "mailEmail": "steffi.matthyssen@kdg.be",
       "chatNaam": "",
@@ -698,7 +763,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Vroedkunde": {
+    "Vroedkunde | Professionele bachelor": {
       "mailNaam": "Laura Claes ",
       "mailEmail": "laura.claes@kdg.be",
       "chatNaam": "",
@@ -718,7 +783,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Bedrijfsmanagement": {
+    "Bedrijfsmanagement | Professionele bachelor": {
       "mailNaam": "",
       "mailEmail": "info.mit@kdg.be",
       "chatNaam": "",
@@ -738,7 +803,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Gelijkvloers"
     },
-    "Medische Beeldvorming en Radiotherapie": {
+    "Medische Beeldvorming en Radiotherapie | Professionele bachelor": {
       "mailNaam": "Fenna Dirckx",
       "mailEmail": "fenna.dirckx@kdg.be",
       "chatNaam": "",
@@ -758,9 +823,9 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Maatschappelijk Werk": {
-      "mailNaam": "Elke Deforce",
-      "mailEmail": "Elke.deforce@kdg.be",
+    "Maatschappelijk Werk | Graduaat": {
+      "mailNaam": "Annemie Cornille ",
+      "mailEmail": "annemie.cornille@kdg.be",
       "chatNaam": "",
       "chatFunctie": "",
       "chatUrl": "",
@@ -778,7 +843,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Toegepaste Informatica - voor Werkstudenten": {
+    "Toegepaste Informatica - voor Werkstudenten | Professionele bachelor": {
       "mailNaam": "Toni Mini",
       "mailEmail": "tiflex.slc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -798,7 +863,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Internationaal Ondernemen": {
+    "Internationaal Ondernemen | Professionele bachelor": {
       "mailNaam": "Geert Laenen",
       "mailEmail": "geert.laenen@kdg.be",
       "chatNaam": "Thierry Callaerts",
@@ -814,11 +879,11 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Leraar Lager Onderwijs - Verkort": {
+    "Leraar Lager Onderwijs - Verkort | Educatieve bachelor": {
       "mailNaam": "Belinda Wyckmans",
       "mailEmail": "belinda.wyckmans@kdg.be",
       "chatNaam": "",
@@ -838,7 +903,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Leraar Kleuteronderwijs - Verkort": {
+    "Leraar Kleuteronderwijs - Verkort | Educatieve bachelor": {
       "mailNaam": "Belinda Wyckmans",
       "mailEmail": "belinda.wyckmans@kdg.be",
       "chatNaam": "",
@@ -858,7 +923,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Leraar Kleuteronderwijs": {
+    "Leraar Kleuteronderwijs | Educatieve bachelor": {
       "mailNaam": "Mieke Clement",
       "mailEmail": "mieke.clement@kdg.be",
       "chatNaam": "",
@@ -878,7 +943,7 @@
       "ifCampus": "Campus Zuid",
       "ifOnthaal": "Onthaal"
     },
-    "Applied Computer Science": {
+    "Applied Computer Science | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "acs.scc@kdg.be",
       "chatNaam": "Ann Gielis",
@@ -898,7 +963,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Foyer (gelijkvloers links)"
     },
-    "Business & Languages": {
+    "Business & Languages | Professionele bachelor": {
       "mailNaam": "Brigitte De Ruysscher",
       "mailEmail": "brigitte.deruysscher@kdg.be",
       "chatNaam": "Brigitte De Ruysscher",
@@ -911,14 +976,14 @@
       "fysiekEmail": "",
       "fysiekUrl": "",
       "ioDatum": "2026-07-01T07:30:00.000Z",
-      "ioDuur": "1u30",
+      "ioDuur": "1.30 u.",
       "ioUrl": "https://www.kdg.be/opleidingen/kdg-staat-voor-je-klaar/registratie-zomerinfomoment",
       "ifDatum": "2026-06-30T15:00:00.000Z",
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor"
     },
-    "Cross Media Management": {
+    "Cross Media Management | Professionele bachelor": {
       "mailNaam": "Brigitte De Ruysscher",
       "mailEmail": "brigitte.deruysscher@kdg.be",
       "chatNaam": "Brigitte De Ruysscher",
@@ -931,14 +996,14 @@
       "fysiekEmail": "",
       "fysiekUrl": "",
       "ioDatum": "2026-07-01T07:30:00.000Z",
-      "ioDuur": "1u30",
+      "ioDuur": "1.30 u.",
       "ioUrl": "https://www.kdg.be/opleidingen/kdg-staat-voor-je-klaar/registratie-zomerinfomoment",
       "ifDatum": "2026-06-30T15:00:00.000Z",
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor"
     },
-    "Event & Project Management": {
+    "Event & Project Management | Professionele bachelor": {
       "mailNaam": "Brigitte De Ruysscher",
       "mailEmail": "brigitte.deruysscher@kdg.be",
       "chatNaam": "Brigitte De Ruysscher",
@@ -951,14 +1016,14 @@
       "fysiekEmail": "",
       "fysiekUrl": "",
       "ioDatum": "2026-07-01T07:30:00.000Z",
-      "ioDuur": "1u30",
+      "ioDuur": "1.30 u.",
       "ioUrl": "https://www.kdg.be/opleidingen/kdg-staat-voor-je-klaar/registratie-zomerinfomoment",
       "ifDatum": "2026-06-30T15:00:00.000Z",
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor"
     },
-    "Leraar Secundair Onderwijs": {
+    "Leraar Secundair Onderwijs | Educatieve bachelor": {
       "mailNaam": "Tomas Fabry",
       "mailEmail": "tomas.fabry@kdg.be",
       "chatNaam": "",
@@ -978,7 +1043,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Human Resources Management": {
+    "Human Resources Management | Professionele bachelor": {
       "mailNaam": "Anneleen Andries",
       "mailEmail": "anneleen.andries@kdg.be ",
       "chatNaam": "",
@@ -998,7 +1063,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "International Business Management": {
+    "International Business Management | Professionele bachelor": {
       "mailNaam": "Carolina Egúsquiza",
       "mailEmail": "carolina.egusquizaberrocal@kdg.be",
       "chatNaam": "",
@@ -1014,11 +1079,11 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Global Business": {
+    "Global Business | Professionele bachelor": {
       "mailNaam": "Carolina Egúsquiza",
       "mailEmail": "carolina.egusquizaberrocal@kdg.be",
       "chatNaam": "",
@@ -1034,11 +1099,11 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Global Supply Chain Management": {
+    "Global Supply Chain Management | Professionele bachelor": {
       "mailNaam": "Carolina Egúsquiza",
       "mailEmail": "carolina.egusquizaberrocal@kdg.be",
       "chatNaam": "",
@@ -1054,11 +1119,11 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "International Entrepreneurship": {
+    "International Entrepreneurship | Professionele bachelor": {
       "mailNaam": "Carolina Egúsquiza",
       "mailEmail": "carolina.egusquizaberrocal@kdg.be",
       "chatNaam": "",
@@ -1074,17 +1139,17 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Pedagogie van het Jonge Kind": {
+    "Pedagogie van het Jonge Kind | Professionele bachelor": {
       "mailNaam": "Farah Van Roost ",
       "mailEmail": "farah.vanroost@kdg.be",
       "chatNaam": "",
       "chatFunctie": "",
       "chatUrl": "",
-      "onlineNaam": "Farah van Roost",
+      "onlineNaam": "Farah Van Roost",
       "onlineEmail": "farah.vanroost@kdg.be",
       "onlineUrl": "https://bookings.cloud.microsoft/bookwithme/user/02e836780f8642d48c1c3440e28ff444%40kdg.be/meetingtype/wAUZ9zPuX0ejKnAcs2oMVA2?anonymous&ismsaljsauthenabled",
       "fysiekNaam": "",
@@ -1098,7 +1163,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Financiën en Verzekeringen": {
+    "Financiën en Verzekeringen | Professionele bachelor": {
       "mailNaam": "Philip Hellemans",
       "mailEmail": "financienverzekeringen@kdg.be",
       "chatNaam": "",
@@ -1114,11 +1179,11 @@
       "ioDuur": "",
       "ioUrl": "",
       "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
+      "ifDuur": "3 uur",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Chemie": {
+    "Chemie | Professionele bachelor": {
       "mailNaam": "Kim Van Hoof",
       "mailEmail": "kim.vanhoof@kdg.be",
       "chatNaam": "",
@@ -1138,7 +1203,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Biochemie": {
+    "Biochemie | Professionele bachelor": {
       "mailNaam": "Kim Van Hoof",
       "mailEmail": "kim.vanhoof@kdg.be",
       "chatNaam": "",
@@ -1158,7 +1223,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Procestechnologie": {
+    "Procestechnologie | Professionele bachelor": {
       "mailNaam": "Kim Van Hoof",
       "mailEmail": "kim.vanhoof@kdg.be",
       "chatNaam": "",
@@ -1178,7 +1243,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Leraar Lager Onderwijs": {
+    "Leraar Lager Onderwijs | Educatieve bachelor": {
       "mailNaam": "Sandra Janssens",
       "mailEmail": "sandra.janssens@kdg.be",
       "chatNaam": "",
@@ -1198,7 +1263,7 @@
       "ifCampus": "Campus Zuid",
       "ifOnthaal": "Onthaal"
     },
-    "Orthopedagogie": {
+    "Orthopedagogie | Professionele bachelor": {
       "mailNaam": "Kathleen Van Loon",
       "mailEmail": "kathleen.vanloon@kdg.be",
       "chatNaam": "",
@@ -1218,7 +1283,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Toegepaste Jeugdcriminologie": {
+    "Toegepaste Jeugdcriminologie | Professionele bachelor": {
       "mailNaam": "Kathleen Van Loon",
       "mailEmail": "kathleen.vanloon@kdg.be",
       "chatNaam": "",
@@ -1238,7 +1303,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Marketing": {
+    "Marketing | Professionele bachelor": {
       "mailNaam": "Annette Höhner",
       "mailEmail": "annette.hohner@kdg.be",
       "chatNaam": "Annette Höhner",
@@ -1258,7 +1323,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Accountancy-Fiscaliteit": {
+    "Accountancy-Fiscaliteit | Professionele bachelor": {
       "mailNaam": "Winke Delagrange",
       "mailEmail": "winke.delagrange@kdg.be",
       "chatNaam": "Thomas Heynderickx",
@@ -1278,7 +1343,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": ""
     },
-    "Rechtspraktijk": {
+    "Rechtspraktijk | Professionele bachelor": {
       "mailNaam": "Filip Aerts",
       "mailEmail": "filip.aerts@kdg.be",
       "chatNaam": "Xavier Baeyens",
@@ -1298,7 +1363,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor, gelijkvloers"
     },
-    "Sociaal Werk": {
+    "Sociaal Werk | Professionele bachelor": {
       "mailNaam": "Elke Deforce",
       "mailEmail": "Elke.deforce@kdg.be",
       "chatNaam": "",
@@ -1318,7 +1383,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Kunst- en Cultuurbemiddeling": {
+    "Kunst- en Cultuurbemiddeling | Professionele bachelor": {
       "mailNaam": "Elke Deforce",
       "mailEmail": "Elke.deforce@kdg.be",
       "chatNaam": "",
@@ -1338,7 +1403,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Maatschappelijke Advisering": {
+    "Maatschappelijk Werk | Professionele bachelor": {
       "mailNaam": "Elke Deforce",
       "mailEmail": "Elke.deforce@kdg.be",
       "chatNaam": "",
@@ -1358,7 +1423,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Sociaal-Juridische Dienstverlening": {
+    "Maatschappelijke Advisering | Professionele bachelor": {
       "mailNaam": "Elke Deforce",
       "mailEmail": "Elke.deforce@kdg.be",
       "chatNaam": "",
@@ -1378,7 +1443,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Sociaal-Cultureel Werk": {
+    "Sociaal-Juridische Dienstverlening | Professionele bachelor": {
       "mailNaam": "Elke Deforce",
       "mailEmail": "Elke.deforce@kdg.be",
       "chatNaam": "",
@@ -1398,7 +1463,27 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Supply Chain Management": {
+    "Sociaal-Cultureel Werk | Professionele bachelor": {
+      "mailNaam": "Elke Deforce",
+      "mailEmail": "Elke.deforce@kdg.be",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
+    },
+    "Supply Chain Management | Professionele bachelor": {
       "mailNaam": "Katleen De Naeyer",
       "mailEmail": "Katleen.denaeyer@kdg.be",
       "chatNaam": "Katleen De Naeyer",
@@ -1418,7 +1503,7 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "onthaal beneden"
     },
-    "Multimedia & Creative Technologies": {
+    "Multimedia & Creative Technologies | Professionele bachelor": {
       "mailNaam": "Kevin Van Oevelen",
       "mailEmail": "kevin.vanoevelen@kdg.be",
       "chatNaam": "",
@@ -1438,7 +1523,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Multimedia en Creatieve Technologie": {
+    "Multimedia en Creatieve Technologie | Professionele bachelor": {
       "mailNaam": "Kevin Van Oevelen",
       "mailEmail": "kevin.vanoevelen@kdg.be",
       "chatNaam": "",
@@ -1458,7 +1543,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Internet of Things": {
+    "Internet of Things | Graduaat": {
       "mailNaam": "Kevin Van Oevelen",
       "mailEmail": "kevin.vanoevelen@kdg.be",
       "chatNaam": "",
@@ -1478,7 +1563,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Beeldende Kunsten": {
+    "Beeldende Kunsten | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1498,7 +1583,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Fotografie": {
+    "Fotografie | Professionele bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1518,7 +1603,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Studio Communicatie-Ontwerp": {
+    "Studio Communicatie-Ontwerp | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1538,7 +1623,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Studio Grafische Vormgeving": {
+    "Studio Grafische Vormgeving | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1558,7 +1643,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Studio Illustratie": {
+    "Studio Illustratie | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1578,7 +1663,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Studio Sieraad": {
+    "Studio Sieraad | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1598,7 +1683,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Studio Vrije Kunst": {
+    "Grafisch Ontwerp | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1618,7 +1703,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Grafisch Ontwerp": {
+    "Vrije Kunsten | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
@@ -1638,27 +1723,7 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Vrije Kunsten": {
-      "mailNaam": "STIP-medewerker",
-      "mailEmail": "stip.sla@kdg.be",
-      "chatNaam": "",
-      "chatFunctie": "",
-      "chatUrl": "",
-      "onlineNaam": "",
-      "onlineEmail": "",
-      "onlineUrl": "",
-      "fysiekNaam": "",
-      "fysiekEmail": "",
-      "fysiekUrl": "",
-      "ioDatum": "",
-      "ioDuur": "",
-      "ioUrl": "",
-      "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
-    },
-    "Juweelontwerp en Edelsmeedkunst": {
+    "Juweelontwerp en Edelsmeedkunst | Academische bachelor": {
       "mailNaam": "STIP-medewerker",
       "mailEmail": "stip.sla@kdg.be",
       "chatNaam": "",
