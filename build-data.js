@@ -35,18 +35,22 @@ async function fetchAll(table) {
 const sel = v => (v && typeof v === 'object' && !Array.isArray(v)) ? v.name : v;
 
 (async () => {
-  // 1) Opleidingen + id→naam-map
+  // 1) Opleidingen + id→key-map. Key = "naam | type" zodat dezelfde naam met een ander
+  //    type (bv. Maatschappelijk Werk als bachelor én graduaat) apart blijft bestaan.
   const oplRecords = await fetchAll(OPL_TABLE);
-  const idToNaam = {}, seen = {}, opleidingen = [];
+  const idToKey = {}, seen = {}, opleidingen = [];
   for (const r of oplRecords) {
     const f = r.fields;
-    idToNaam[r.id] = f.Name;
-    if (f.Name && !seen[f.Name]) {
-      seen[f.Name] = 1;
-      opleidingen.push({ naam: f.Name, type: sel(f.Notes) || '', campus: sel(f.Infodag_campus) || '' });
+    const naam = f.Name, type = sel(f.Notes) || '', campus = sel(f.Infodag_campus) || '';
+    if (!naam) continue;
+    const key = naam + ' | ' + type;
+    idToKey[r.id] = key;
+    if (!seen[key]) {
+      seen[key] = 1;
+      opleidingen.push({ key, naam, type, campus });
     }
   }
-  opleidingen.sort((a, b) => a.naam.localeCompare(b.naam, 'nl'));
+  opleidingen.sort((a, b) => a.naam.localeCompare(b.naam, 'nl') || a.type.localeCompare(b.type, 'nl'));
 
   // 2) Acties — één record kan aan meerdere opleidingen hangen (elk dezelfde data)
   const actRecords = await fetchAll(ACT_TABLE);
@@ -63,10 +67,12 @@ const sel = v => (v && typeof v === 'object' && !Array.isArray(v)) ? v.name : v;
       ioDatum:    f['INFOSESSIE-ONLINE_Datum en startuur'] || '', ioDuur: f['INFOSESSIE-ONLINE_Duur'] || '', ioUrl: f['INFOSESSIE-ONLINE_Inschrijvingslink'] || '',
       ifDatum:    f['INFOSESSIE-FYSIEK_Datum en startuur'] || '', ifDuur: f['INFOSESSIE-FYSIEK_Duur'] || '', ifCampus: sel(f['INFOSESSIE-FYSIEK_Campus']) || '', ifOnthaal: f['INFOSESSIE-FYSIEK_Onthaal locatie'] || ''
     };
+    const heeftInhoud = rec.mailEmail || rec.chatUrl || rec.onlineUrl || rec.onlineEmail || rec.fysiekUrl || rec.fysiekEmail || rec.ioUrl || rec.ifDatum;
+    if (!heeftInhoud) continue;   // record zonder echte acties overslaan
     for (const link of links) {
-      // linked field kan record-IDs (REST) of {id,name}-objecten bevatten
-      const naam = (typeof link === 'string') ? idToNaam[link] : (link.name || idToNaam[link.id]);
-      if (naam) acties[naam] = rec;
+      // linked field bevat record-IDs (REST). Map id → key ("naam | type").
+      const key = idToKey[(typeof link === 'string') ? link : link.id];
+      if (key) acties[key] = rec;
     }
   }
 
