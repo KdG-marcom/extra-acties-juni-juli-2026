@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T05:17:02.585Z",
+  "updated": "2026-06-24T06:34:46.948Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -438,26 +438,6 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
-    "Beeldende Kunsten": {
-      "mailNaam": "test",
-      "mailEmail": "test2kdg.be",
-      "chatNaam": "",
-      "chatFunctie": "",
-      "chatUrl": "",
-      "onlineNaam": "",
-      "onlineEmail": "",
-      "onlineUrl": "",
-      "fysiekNaam": "",
-      "fysiekEmail": "",
-      "fysiekUrl": "",
-      "ioDatum": "",
-      "ioDuur": "",
-      "ioUrl": "",
-      "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
-    },
     "Vroedkunde": {
       "mailNaam": "Laura Claes ",
       "mailEmail": "laura.claes@kdg.be",
@@ -502,7 +482,7 @@
       "mailNaam": "Tom Herrijgers",
       "mailEmail": "tom.herrijgers@kdg.be",
       "chatNaam": "Daan (staat er nu op gevraagd of hij tot 10/7 kan) zo niet mag je aanpassen naar Tom Herrijgers",
-      "chatFunctie": "Opleidingshoofd",
+      "chatFunctie": "opleidingshoofd",
       "chatUrl": "",
       "onlineNaam": "Tom Herrijgers",
       "onlineEmail": "",
@@ -524,7 +504,7 @@
       "chatNaam": "Thierry Callaerts",
       "chatFunctie": "docent",
       "chatUrl": "",
-      "onlineNaam": "natalie verfaellie",
+      "onlineNaam": "Natalie Verfaellie",
       "onlineEmail": "",
       "onlineUrl": "https://outlook.office.com/book/AfsprakenOpenDeurKdGCampusGroenplaats@studentkdg.onmicrosoft.com/s/K_NFH3Jd-0i3EE0HOtevLg2?ismsaljsauthenabled",
       "fysiekNaam": "",
@@ -743,7 +723,7 @@
       "mailEmail": "annette.hohner@kdg.be",
       "chatNaam": "Annette Höhner",
       "chatFunctie": "opleidingshoofd Marketing",
-      "chatUrl": "",
+      "chatUrl": "https://www.kdg.be",
       "onlineNaam": "Céline De Schoesitter",
       "onlineEmail": "",
       "onlineUrl": " https://outlook.office.com/book/AfsprakenOpenDeurKdGCampusGroenplaats@studentkdg.onmicrosoft.com/s/cIY7KhCWrUK-gtDqcAAi1Q2?ismsaljsauthenabled",
@@ -756,13 +736,13 @@
       "ifDatum": "2026-06-30T15:00:00.000Z",
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
-      "ifOnthaal": "Floor"
+      "ifOnthaal": "Floor, gelijkvloers"
     },
     "Accountancy-Fiscaliteit": {
       "mailNaam": "Winke Delagrange",
       "mailEmail": "winke.delagrange@kdg.be",
       "chatNaam": "Thomas Heynderickx",
-      "chatFunctie": "Opleidingshoofd",
+      "chatFunctie": "opleidingshoofd",
       "chatUrl": "",
       "onlineNaam": "Barbara Brisé",
       "onlineEmail": "",
@@ -781,8 +761,8 @@
     "Rechtspraktijk": {
       "mailNaam": "Filip Aerts",
       "mailEmail": "filip.aerts@kdg.be",
-      "chatNaam": "Xavier Baeyens (of student unibuddy)",
-      "chatFunctie": "Ondersteuner en stagecoördinator rechtspraktijk",
+      "chatNaam": "Xavier Baeyens (of student Unibuddy)",
+      "chatFunctie": "ondersteuner en stagecoördinator rechtspraktijk",
       "chatUrl": "",
       "onlineNaam": "Filip Aerts",
       "onlineEmail": "filip.aerts@kdg.be",
@@ -796,7 +776,7 @@
       "ifDatum": "2026-06-30T15:00:00.000Z",
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
-      "ifOnthaal": "Floor"
+      "ifOnthaal": "Floor, gelijkvloers"
     },
     "Sociaal Werk": {
       "mailNaam": "Elke Deforce",
