@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T05:13:18.290Z",
+  "updated": "2026-06-24T05:17:02.585Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -421,6 +421,26 @@
     "Verpleegkunde": {
       "mailNaam": "Helena Verheyen",
       "mailEmail": "helena.verheyen@kdg.be",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
+    },
+    "Beeldende Kunsten": {
+      "mailNaam": "test",
+      "mailEmail": "test2kdg.be",
       "chatNaam": "",
       "chatFunctie": "",
       "chatUrl": "",
