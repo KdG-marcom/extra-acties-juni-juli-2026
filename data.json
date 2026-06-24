@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T06:34:46.948Z",
+  "updated": "2026-06-24T08:21:25.855Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -418,6 +418,26 @@
     }
   ],
   "acties": {
+    "KMO-Management": {
+      "mailNaam": "Tom Herrijgers",
+      "mailEmail": "tom.herrijgers@kdg.be",
+      "chatNaam": "Daan (staat er nu op gevraagd of hij tot 10/7 kan) zo niet mag je aanpassen naar Tom Herrijgers",
+      "chatFunctie": "opleidingshoofd",
+      "chatUrl": "",
+      "onlineNaam": "Tom Herrijgers",
+      "onlineEmail": "",
+      "onlineUrl": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FAfsprakenOpenDeurKdGCampusGroenplaats%40studentkdg.onmicrosoft.com%2Fs%2FR148-ENymkGvv3RAIIexXg2%3Fismsaljsauthenabled&data=05%7C02%7Ctom.herrijgers%40kdg.be%7C347c5442780e4b6d1ff008ded0f2cca0%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639177938392854399%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rvKQjFGooYJcJQd5m9dZlPLcvskw9Xd3RL9h0rdiBR4%3D&reserved=0",
+      "fysiekNaam": "Tom Herrijgers",
+      "fysiekEmail": "",
+      "fysiekUrl": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FAfsprakenOpenDeurKdGCampusGroenplaats%40studentkdg.onmicrosoft.com%2Fs%2FR148-ENymkGvv3RAIIexXg2%3Fismsaljsauthenabled&data=05%7C02%7Ctom.herrijgers%40kdg.be%7C347c5442780e4b6d1ff008ded0f2cca0%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639177938392854399%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rvKQjFGooYJcJQd5m9dZlPLcvskw9Xd3RL9h0rdiBR4%3D&reserved=0",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "2026-06-30T15:00:00.000Z",
+      "ifDuur": "3",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": ""
+    },
     "Verpleegkunde": {
       "mailNaam": "Helena Verheyen",
       "mailEmail": "helena.verheyen@kdg.be",
@@ -476,26 +496,6 @@
       "ifDatum": "",
       "ifDuur": "",
       "ifCampus": "",
-      "ifOnthaal": ""
-    },
-    "KMO-Management": {
-      "mailNaam": "Tom Herrijgers",
-      "mailEmail": "tom.herrijgers@kdg.be",
-      "chatNaam": "Daan (staat er nu op gevraagd of hij tot 10/7 kan) zo niet mag je aanpassen naar Tom Herrijgers",
-      "chatFunctie": "opleidingshoofd",
-      "chatUrl": "",
-      "onlineNaam": "Tom Herrijgers",
-      "onlineEmail": "",
-      "onlineUrl": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FAfsprakenOpenDeurKdGCampusGroenplaats%40studentkdg.onmicrosoft.com%2Fs%2FR148-ENymkGvv3RAIIexXg2%3Fismsaljsauthenabled&data=05%7C02%7Ctom.herrijgers%40kdg.be%7C347c5442780e4b6d1ff008ded0f2cca0%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639177938392854399%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rvKQjFGooYJcJQd5m9dZlPLcvskw9Xd3RL9h0rdiBR4%3D&reserved=0",
-      "fysiekNaam": "Tom Herrijgers",
-      "fysiekEmail": "",
-      "fysiekUrl": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook.office.com%2Fbook%2FAfsprakenOpenDeurKdGCampusGroenplaats%40studentkdg.onmicrosoft.com%2Fs%2FR148-ENymkGvv3RAIIexXg2%3Fismsaljsauthenabled&data=05%7C02%7Ctom.herrijgers%40kdg.be%7C347c5442780e4b6d1ff008ded0f2cca0%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639177938392854399%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rvKQjFGooYJcJQd5m9dZlPLcvskw9Xd3RL9h0rdiBR4%3D&reserved=0",
-      "ioDatum": "",
-      "ioDuur": "",
-      "ioUrl": "",
-      "ifDatum": "2026-06-30T15:00:00.000Z",
-      "ifDuur": "3",
-      "ifCampus": "Campus Groenplaats",
       "ifOnthaal": ""
     },
     "Internationaal Ondernemen": {
@@ -723,7 +723,7 @@
       "mailEmail": "annette.hohner@kdg.be",
       "chatNaam": "Annette Höhner",
       "chatFunctie": "opleidingshoofd Marketing",
-      "chatUrl": "https://www.kdg.be",
+      "chatUrl": "",
       "onlineNaam": "Céline De Schoesitter",
       "onlineEmail": "",
       "onlineUrl": " https://outlook.office.com/book/AfsprakenOpenDeurKdGCampusGroenplaats@studentkdg.onmicrosoft.com/s/cIY7KhCWrUK-gtDqcAAi1Q2?ismsaljsauthenabled",
@@ -797,6 +797,26 @@
       "ifDuur": "",
       "ifCampus": "",
       "ifOnthaal": ""
+    },
+    "Supply Chain Management": {
+      "mailNaam": "Katleen De Naeyer",
+      "mailEmail": "Katleen.denaeyer@kdg.be",
+      "chatNaam": "Katleen De Naeyer",
+      "chatFunctie": "Opleidingshoofd/docent",
+      "chatUrl": "",
+      "onlineNaam": "Jesse Mortelmans",
+      "onlineEmail": "",
+      "onlineUrl": "https://outlook.office.com/book/AfsprakenOpenDeurKdGCampusGroenplaats@studentkdg.onmicrosoft.com/s/K_NFH3Jd-0i3EE0HOtevLg2?ismsaljsauthenabled",
+      "fysiekNaam": "Katleen De Naeyer",
+      "fysiekEmail": "",
+      "fysiekUrl": "https://outlook.office.com/book/KdGstaatvoorjeklaarOpCampusGroenplaats@studentkdg.onmicrosoft.com/s/aP_mFdbzUUK54tlhC72xjw2?ismsaljsauthenabled",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "2026-06-30T15:00:00.000Z",
+      "ifDuur": "3",
+      "ifCampus": "Campus Groenplaats",
+      "ifOnthaal": "onthaal beneden"
     }
   }
 }
