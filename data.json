@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T05:02:56.410Z",
+  "updated": "2026-06-24T05:13:18.290Z",
   "opleidingen": [
     {
       "naam": "Accountancy-Fiscaliteit",
@@ -38,7 +38,7 @@
     },
     {
       "naam": "Beeldende Kunsten",
-      "type": "Master",
+      "type": "Academische bachelor",
       "campus": "Campus Sint Lucas"
     },
     {
@@ -107,6 +107,11 @@
       "campus": "Campus Groenplaats"
     },
     {
+      "naam": "Grafisch Ontwerp",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
       "naam": "Human Resources Management",
       "type": "Professionele bachelor",
       "campus": "Campus Zuid"
@@ -135,6 +140,11 @@
       "naam": "Internet of Things",
       "type": "Graduaat",
       "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Juweelontwerp en Edelsmeedkunst",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
     },
     {
       "naam": "KMO-Management",
@@ -317,6 +327,31 @@
       "campus": "Campus Groenplaats"
     },
     {
+      "naam": "Studio Communicatie-Ontwerp",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Studio Grafische Vormgeving",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Studio Illustratie",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Studio Sieraad",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
+      "naam": "Studio Vrije Kunst",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
+    },
+    {
       "naam": "Supply Chain Management",
       "type": "Professionele bachelor",
       "campus": "Campus Groenplaats"
@@ -370,6 +405,11 @@
       "naam": "Voertuigtechnieken",
       "type": "Graduaat",
       "campus": "Campus Hoboken"
+    },
+    {
+      "naam": "Vrije Kunsten",
+      "type": "Academische bachelor",
+      "campus": "Campus Sint Lucas"
     },
     {
       "naam": "Vroedkunde",
