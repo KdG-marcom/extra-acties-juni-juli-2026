@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:41:12.032Z",
+  "updated": "2026-06-26T04:39:28.560Z",
   "opleidingen": [
     {
       "key": "Accountancy-Fiscaliteit | Professionele bachelor",
@@ -563,6 +563,26 @@
       "ifCampus": "",
       "ifOnthaal": ""
     },
+    "Verkorte Educatieve Bachelor Secundair Onderwijs | Educatieve bachelor": {
+      "mailNaam": "Maruca Fabry",
+      "mailEmail": " maruca.fabry@kdg.be",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
+    },
     "AI & Data Engineer | Professionele bachelor": {
       "mailNaam": "Aurélie Van Reeth (studieloopbaancoördinator)",
       "mailEmail": "ti.slc@kdg.be",
@@ -868,7 +888,7 @@
       "mailEmail": "geert.laenen@kdg.be",
       "chatNaam": "Thierry Callaerts",
       "chatFunctie": "docent",
-      "chatUrl": "",
+      "chatUrl": "https://api.unibuddy.co/og/karel-de-grote-hogeschool/buddies/staff/6a3ce43811fe13710e831a3a",
       "onlineNaam": "Natalie Verfaellie",
       "onlineEmail": "",
       "onlineUrl": "https://bookings.cloud.microsoft/book/AfsprakenOpenDeurKdGCampusGroenplaats@studentkdg.onmicrosoft.com/s/XHLbzj4uw0mPi13plWE6Qw2?ismsaljsauthenabled",
@@ -1142,6 +1162,26 @@
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor, gelijkvloers"
+    },
+    "Educatief Graduaat Secundair Onderwijs | Graduaat": {
+      "mailNaam": "Stefanie Baeten en Katleen Van Calsteren ",
+      "mailEmail": "slc.egso@kdg.be",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
     },
     "Pedagogie van het Jonge Kind | Professionele bachelor": {
       "mailNaam": "Farah Van Roost ",
