@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T09:00:22.972Z",
+  "updated": "2026-06-29T14:03:53.545Z",
   "opleidingen": [
     {
       "key": "Accountancy-Fiscaliteit | Professionele bachelor",
@@ -565,7 +565,7 @@
     },
     "Verkorte Educatieve Bachelor Secundair Onderwijs | Educatieve bachelor": {
       "mailNaam": "Maruca Fabry",
-      "mailEmail": " maruca.fabry@kdg.be",
+      "mailEmail": "Maruca.fabry@kdg.be",
       "chatNaam": "",
       "chatFunctie": "",
       "chatUrl": "",
@@ -1043,6 +1043,26 @@
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor"
     },
+    "Educatief Graduaat Secundair Onderwijs | Graduaat": {
+      "mailNaam": "Stefanie Baeten en Katleen Van Calsteren ",
+      "mailEmail": "slc.egso@kdg.be",
+      "chatNaam": "",
+      "chatFunctie": "",
+      "chatUrl": "",
+      "onlineNaam": "",
+      "onlineEmail": "",
+      "onlineUrl": "",
+      "fysiekNaam": "",
+      "fysiekEmail": "",
+      "fysiekUrl": "",
+      "ioDatum": "",
+      "ioDuur": "",
+      "ioUrl": "",
+      "ifDatum": "",
+      "ifDuur": "",
+      "ifCampus": "",
+      "ifOnthaal": ""
+    },
     "Leraar Secundair Onderwijs | Educatieve bachelor": {
       "mailNaam": "Tomas Fabry",
       "mailEmail": "tomas.fabry@kdg.be",
@@ -1162,26 +1182,6 @@
       "ifDuur": "3 uur",
       "ifCampus": "Campus Groenplaats",
       "ifOnthaal": "Floor, gelijkvloers"
-    },
-    "Educatief Graduaat Secundair Onderwijs | Graduaat": {
-      "mailNaam": "Stefanie Baeten en Katleen Van Calsteren ",
-      "mailEmail": "slc.egso@kdg.be",
-      "chatNaam": "",
-      "chatFunctie": "",
-      "chatUrl": "",
-      "onlineNaam": "",
-      "onlineEmail": "",
-      "onlineUrl": "",
-      "fysiekNaam": "",
-      "fysiekEmail": "",
-      "fysiekUrl": "",
-      "ioDatum": "",
-      "ioDuur": "",
-      "ioUrl": "",
-      "ifDatum": "",
-      "ifDuur": "",
-      "ifCampus": "",
-      "ifOnthaal": ""
     },
     "Pedagogie van het Jonge Kind | Professionele bachelor": {
       "mailNaam": "Farah Van Roost ",
